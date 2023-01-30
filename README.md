@@ -1,3 +1,6 @@
+# Predicting Comment Upvotes
+In this project, I will analyze the top words in titles and make predictions about upvotes based on the words in the title.
+
 # Red Wine Quality Analysis
 This is an analysis of which variables affect the quality of red wine. I performed exploratory data analysis and used machine learning algorithms to make predictions.
 
