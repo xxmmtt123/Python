@@ -1,3 +1,6 @@
+# Similarity Analysis
+We will use the Cosine Similarity to compute the similarity between two zip codes.
+
 # Predicting Comment Upvotes
 In this project, I will analyze the top words in titles and make predictions about upvotes based on the words in the title.
 
