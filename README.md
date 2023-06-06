@@ -1,8 +1,8 @@
 # Predicting Comment Upvotes
-In this project, I will analyze the top words in titles and make predictions about upvotes based on the words in the title.
+In this project, I analyzed the top words in titles and made predictions about upvotes based on the words in the title.
 
 # NYC Demographics - Similarity Analysis
-I will use the Cosine Similarity to calculate the similarity score between two zip codes.
+I used the Cosine Similarity to calculate the similarity score between two zip codes.
 Visualization can be found here: https://public.tableau.com/views/SimilarityAnalysis_16750855678560/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 # Stock Price Modeling
