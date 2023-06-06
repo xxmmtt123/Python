@@ -1,4 +1,4 @@
-# Similarity Analysis
+# NYC Demographics - Similarity Analysis
 We will use the Cosine Similarity to compute the similarity between two zip codes.
 Visualization can be found here: https://public.tableau.com/views/SimilarityAnalysis_16750855678560/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
