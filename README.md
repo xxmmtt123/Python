@@ -1,3 +1,7 @@
+# Poland House Price Prediction - Explainable AI
+This project focuses on using the random forest model to predict 10 house prices in Poland. Furthermore, we utilize Dalex to evaluate the importance of variables and determine their contributions in the prediction.
+Data source: https://www.kaggle.com/datasets/dawidcegielski/house-prices-in-poland
+
 # Predicting Comment Upvotes
 In this project, I analyzed the top words in titles and made predictions about upvotes based on the words in the title.
 
@@ -10,7 +14,5 @@ This is an analysis of which factors affect stock price. I did data cleaning and
 
 # Wine Quality Analysis
 This is an analysis of the variables that affect the quality of red wine. I conducted exploratory data analysis and utilized machine learning algorithms to make predictions.
-
 The dataset is available from the UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/wine+quality
-
 The dataset contains 12 variables and 1,599 observations.
