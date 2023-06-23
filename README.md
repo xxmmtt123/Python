@@ -1,6 +1,7 @@
 # Poland House Price Prediction - Explainable AI
 This project focuses on using the random forest model to predict 10 house prices in Poland. Furthermore, we utilize Dalex to evaluate the importance of variables and determine their contributions in the prediction.
 Data source: https://www.kaggle.com/datasets/dawidcegielski/house-prices-in-poland
+Visualization can be found here: https://public.tableau.com/views/HousePricesinPoland/Dashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 # Predicting Comment Upvotes
 In this project, I analyzed the top words in titles and made predictions about upvotes based on the words in the title.
